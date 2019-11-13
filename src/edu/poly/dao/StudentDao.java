@@ -13,4 +13,7 @@ public class StudentDao {
     public void insert(){
         
     }
+    public void update(){
+        
+    }
 }
