@@ -10,5 +10,11 @@ package edu.poly.dao;
  * @author AnhNN
  */
 public class CourseDao {
-    
+    /**
+     * Insert method 
+     * created by AnhNNPMP
+     */
+    public void insertCourse(){
+        
+    }
 }
